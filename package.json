@@ -1,0 +1,27 @@
+{
+  "name": "tingyun2",
+  "version": "1.6.1",
+  "author": {
+    "name": "lianer",
+    "email": "lianer@live.cn"
+  },
+  "description": "clone from tingyun agent",
+  "keywords": [
+    "apm",
+    "performance",
+    "monitoring",
+    "instrumentation",
+    "debugging",
+    "profiling"
+  ],
+  "homepage": "http://networkbench.com",
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "directories": {},
+  "dependencies": {
+    "async-listener": "^0.6.0",
+    "emitter-listener": "^1.0.1"
+  },
+  "readmeFilename": "README.md"
+}
