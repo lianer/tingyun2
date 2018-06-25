@@ -5,6 +5,10 @@
     "name": "lianer",
     "email": "lianer@live.cn"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lianer/tingyun2.git"
+  },
   "description": "clone from tingyun agent",
   "keywords": [
     "apm",
